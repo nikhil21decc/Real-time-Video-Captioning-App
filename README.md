@@ -6,3 +6,6 @@ OpenShift API for predicting the output on the basis of given
 real-time image frame as input.
 3. CNN-RNN Model Architecture is used and accuracy of prediction is
 around 79%.
+
+Research Paper...
+https://drive.google.com/file/d/1vfV7Q34PqW8J0owW5dW82_kT0bkT1wHZ/view?usp=sharing
